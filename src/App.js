@@ -8,7 +8,7 @@ function App() {
 
      <div>ritesh</div>
 
-    <div>riteshjumaysu</div>
+  
 
     </div>
   );
